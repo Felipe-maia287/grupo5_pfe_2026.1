@@ -16,6 +16,15 @@ Posicionamento Geral:
 
 - botões com cores com mais contraste do fundo do site
 
+User Experencie 
+ - bom fluxo entre as páginas
+ - navegação intuitiva/guiada
+ -botões para bom acesso: “ comece aqui” ou “seja membro”
+
+------------------------------------------------------------------------------------------------------------------------------
+
+PÁGINA QUEM SOMOS (ideia base)
+
 Página “Quem Somos” deveria ser:
 -Hero (impacto inicial)
 -O que é a ACBrasil
@@ -24,12 +33,6 @@ Página “Quem Somos” deveria ser:
 -Diferenciais
 -Prova social 
 -CTA
-
-User Experencie 
- - bom fluxo entre as páginas
- - navegação intuitiva/guiada
- -botões para bom acesso: “ comece aqui” ou “seja membro”
-
 
 TEM QUE TER RESPONSIVIDADE COM MOBILE
 
