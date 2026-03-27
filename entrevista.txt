@@ -2,13 +2,12 @@ sem fins lucrativos
 pessoas são voluntários
 repensar o site
 logo igual 
-design da logo 
+design da logo, e fonte igual das letras 
 manual de uso marca
-cinza amarelo azul escuro peto
+cinza amarelo azul escuro preto, cores que ele quer
 newsletter ferramenta blog
 contato
 associados/ membros (pensar em como vai ser)
-diretor de tecnologia que faz nas horas vagas 
 o que espera 
 quadro de rss
 API da bolsa de valores
