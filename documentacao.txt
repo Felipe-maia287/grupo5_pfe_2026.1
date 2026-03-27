@@ -1,4 +1,4 @@
-1-(Erros, Bugs, Problemas):
+Pilar de (Erros, Bugs, Problemas):
 
     Mensagem de erro no topo: Logo de cara, em cima do menu, aparece um texto em inglês: "Click here - to use the wp menu builder". Isso é um erro de configuração de plugin que ficou exposto para o público. Parece um site "em obras".
 
