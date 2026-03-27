@@ -1,18 +1,19 @@
-sem fins lucrativos
-pessoas são voluntários
-repensar o site
-logo igual 
-design da logo, e fonte igual das letras 
-manual de uso marca
-cinza amarelo azul escuro preto, cores que ele quer
-newsletter ferramenta blog
-contato
-associados/ membros (pensar em como vai ser)
-o que espera 
-quadro de rss
-API da bolsa de valores
-assim que entrar precisa ver as últimas notícias
-publicação de eventos
-carrossel dos 3 últimos itens publicados no blog
-icones das redes sociais 
-formulario n manda pro back end
+ITENS A SER PRIORISADOS EM SEUS RESPECTIVOS ESPAÇOS
+
+- deixar claro que a empresa não possui fins lucrativos
+- funcionários são pessoas voluntárias (criar uma opção de "seja voluntário")
+- repensar a estrutura do site
+- permanecer a logo atual, mudar a descrição dela para a mesma fonte da própria logo
+- manual de uso marca/explicação da nossa função como empresa
+- paleta de cores que deve ser utilizada na construção do site deve ser cinza amarelo azul escuro preto
+- site deve possuir um newsletter, uma ferramenta parecida com um blog
+- espaço para o contato
+- os associados/membros devem poder visualizar suas consultorias antes e depois(pensar em como vai ser)
+- apresentar o que o cliente deve espera das consultorias voluntárias 
+- assim que entrar precisa ver as últimas notícias no homepage
+- quadro de rss, como se fosse um slide de notícias em tempo real
+- site deve possuir uma API da bolsa de valores
+- site deve apresentar os eventos/futuros eventos 
+- carrossel dos 3 últimos itens publicados no blog
+- icones interativos com as redes sociais da empresa
+- formulario n manda pro back end
