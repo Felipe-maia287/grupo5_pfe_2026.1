@@ -1,4 +1,4 @@
-ITENS A SER PRIORISADOS EM SEUS RESPECTIVOS ESPAÇOS
+ITENS A SER PRIORIZADOS EM SEUS RESPECTIVOS ESPAÇOS
 
 - deixar claro que a empresa não possui fins lucrativos
 - funcionários são pessoas voluntárias (criar uma opção de "seja voluntário")
@@ -16,4 +16,4 @@ ITENS A SER PRIORISADOS EM SEUS RESPECTIVOS ESPAÇOS
 - site deve apresentar os eventos/futuros eventos 
 - carrossel dos 3 últimos itens publicados no blog
 - icones interativos com as redes sociais da empresa
-- formulario n manda pro back end
+- formulario não manda pro back end
