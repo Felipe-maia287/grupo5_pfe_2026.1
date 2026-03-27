@@ -1,9 +1,0 @@
-# grupo5_pfe_2026.1
-integrantes
-- Gabriel Militão
-- Felipe Maia
-- Rodrigo Aquino 
-- Miguel Esteves
-- Pedro Boeing
-- Miguel Figueira
-- Victor Loureiro (aluno ibmec)
