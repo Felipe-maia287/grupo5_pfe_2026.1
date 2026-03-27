@@ -42,4 +42,14 @@ TEM QUE TER RESPONSIVIDADE COM MOBILE
 - Sem texto grande
 - Home deve ser organizada em blocos
 - So tem linkdlin e youtube, criar um local para instagram e email tambem
-- site tem muita coisa escrita, diminuir o maximo
+- site tem muita coisa escrita, diminuir o maximo 
+------------------------------------------------------------------------------------------------------------------------------
+ pagina contato
+ -enviar mensagem para falar sobre algo dentro do site 
+ -tambem está presente na pagina de 'o que fazemos'
+  
+  -o que precisa melhorar?
+  -o mobile ta sem a logo(acrescentar ela é importante)
+  -não precisa da frase '[acb-contatos] porque já ta explicito que é a pagina de contato
+  -o botão de enviar mensagem poderia ser da mesma cor do resto da pagina (azul)
+  -tem que colocar outras redes sociais pq só tem o youtube e o linkedin(seria interessante colocar outros links como o instagram e o gmail)
