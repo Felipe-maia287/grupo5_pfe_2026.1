@@ -13,3 +13,5 @@ Pilar de (Erros, Bugs, Problemas):
     Rodapé Vazio: A seção "SOBRE NÓS" no final da página está lá, mas não tem texto nenhum embaixo. É um espaço desperdiçado que parece que esqueceram de preencher.
 
     Aviso de Cookies Gigante: Quando o banner de cookies abre, ele mostra uma tabela técnica enorme com nomes de códigos (cookielawinfo-checkbox...). Para um usuário comum, isso assusta e parece vírus ou erro de programação, em vez de um aviso de privacidade amigável.
+
+Pilar de (Melhorias, Atualizações, Correções):
