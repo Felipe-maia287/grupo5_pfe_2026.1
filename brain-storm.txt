@@ -1,0 +1,7 @@
+- Cores: Azul marinho e Dourado
+- Home: "Quem somos", "Nossos pilares de governança" e "Como impactamos o mercado"
+- Um menu com o essencial: Sobre, Associar-se, Eventos, Governança e Login
+- Sem texto grande
+- Home deve ser organizada em blocos
+- So tem linkdlin e youtube, criar um local para instagram e email tambem
+- site tem muita coisa escrita, diminuir o maximo
