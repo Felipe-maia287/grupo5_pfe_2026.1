@@ -21,6 +21,15 @@ User Experencie
  - navegação intuitiva/guiada
  -botões para bom acesso: “ comece aqui” ou “seja membro”
 
+ TEM QUE TER RESPONSIVIDADE COM MOBILE
+
+------------------------------------------------------------------------------------------------------------------------------
+PÁGINA Home
+
+- Home deve/poderia ser organizada em blocos
+- possuir um carrossel dos itens publicados no rss/blog 
+
+
 ------------------------------------------------------------------------------------------------------------------------------
 
 PÁGINA QUEM SOMOS (ideia base)
@@ -34,17 +43,17 @@ Página “Quem Somos” deveria ser:
 -Prova social 
 -CTA
 
-TEM QUE TER RESPONSIVIDADE COM MOBILE
 
-- Cores: Azul marinho e Dourado e Branco
-- Home: "Quem somos", "Nossos pilares de governança" e "Como impactamos o mercado"
+- Cores: cinza amarelo azul escuro preto
+
 - Um menu com o essencial: Sobre, Associar-se, Eventos, Governança e Login
 - Sem texto grande
-- Home deve ser organizada em blocos
 - So tem linkdlin e youtube, criar um local para instagram e email tambem
 - site tem muita coisa escrita, diminuir o maximo 
+
 ------------------------------------------------------------------------------------------------------------------------------
- pagina contato
+
+ pÁGINA CONTATO
  -enviar mensagem para falar sobre algo dentro do site 
  -tambem está presente na pagina de 'o que fazemos'
   
@@ -53,3 +62,5 @@ TEM QUE TER RESPONSIVIDADE COM MOBILE
   -não precisa da frase '[acb-contatos] porque já ta explicito que é a pagina de contato
   -o botão de enviar mensagem poderia ser da mesma cor do resto da pagina (azul)
   -tem que colocar outras redes sociais pq só tem o youtube e o linkedin(seria interessante colocar outros links como o instagram e o gmail)
+
+------------------------------------------------------------------------------------------------------------------------------
