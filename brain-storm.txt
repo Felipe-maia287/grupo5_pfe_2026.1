@@ -1,3 +1,38 @@
+Posicionamento Geral:
+ - O site não deixa claro os objetivos da ABCBrasil, nem seu diferencial
+      - Definir claramente o público-alvo
+      - Definir o que o cliente ganha ao entrar na empresa
+      - Melhorar o headline com um forte slogan como: “Maior rede de conselhos . . .”
+
+- Pode se criar diferentes perfis de conselho e com diferentes preços ex:
+      - Conselheiro iniciante
+      - Conselheiro experiente
+      - Empresa
+
+- Melhorar no visual 
+  - tipografia mais moderna 
+  - consistência nas cores em todo o site
+  - deixar consistente com diferentes dispositivos 
+
+- botões com cores com mais contraste do fundo do site
+
+Página “Quem Somos” deveria ser:
+-Hero (impacto inicial)
+-O que é a ACBrasil
+-Missão / visão / valores
+-O que fazemos 
+-Diferenciais
+-Prova social 
+-CTA
+
+User Experencie 
+ - bom fluxo entre as páginas
+ - navegação intuitiva/guiada
+ -botões para bom acesso: “ comece aqui” ou “seja membro”
+
+
+TEM QUE TER RESPONSIVIDADE COM MOBILE
+
 - Cores: Azul marinho e Dourado
 - Home: "Quem somos", "Nossos pilares de governança" e "Como impactamos o mercado"
 - Um menu com o essencial: Sobre, Associar-se, Eventos, Governança e Login
