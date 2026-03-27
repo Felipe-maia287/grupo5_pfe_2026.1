@@ -14,4 +14,8 @@ Pilar de (Erros, Bugs, Problemas):
 
     Aviso de Cookies Gigante: Quando o banner de cookies abre, ele mostra uma tabela técnica enorme com nomes de códigos (cookielawinfo-checkbox...). Para um usuário comum, isso assusta e parece vírus ou erro de programação, em vez de um aviso de privacidade amigável.
 
+    Captcha e Interação via WhatsApp: as duas logos(funcionalidades) aparecem juntas uma sobreposta a outra, dificultando a experiencia e demonstrando falha na interface.
+
+    Rodapé: No grupo links úteis, no link Home quando clicado dá erro 404.
+
 Pilar de (Melhorias, Atualizações, Correções):
