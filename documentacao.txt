@@ -16,4 +16,6 @@ Pilar de (Erros, Bugs, Problemas):
 
     Captcha e Interação via WhatsApp: as duas logos(funcionalidades) aparecem juntas uma sobreposta a outra, dificultando a experiencia e demonstrando falha na interface.
 
+    Rodapé: No grupo links úteis, no link Home quando clicado dá erro 404.
+
 Pilar de (Melhorias, Atualizações, Correções):
