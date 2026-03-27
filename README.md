@@ -1,7 +1,7 @@
 # grupo5_pfe_2026.1
 integrantes
 - Gabriel Militão
-- Felpe Maia
+- Felipe Maia
 - Rodrigo Aquino 
 - Miguel Esteves
 - Pedro Boeing
