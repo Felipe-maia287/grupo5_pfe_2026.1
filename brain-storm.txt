@@ -1,5 +1,5 @@
-Posicionamento Geral:
- - O site não deixa claro os objetivos da ABCBrasil, nem seu diferencial
+~´Posicionamento Geral:
+ - O site não deixa claro os objetivos da ACBrasil, nem seu diferencial
       - Definir claramente o público-alvo
       - Definir o que o cliente ganha ao entrar na empresa
       - Melhorar o headline com um forte slogan como: “Maior rede de conselhos . . .”
@@ -19,9 +19,13 @@ Posicionamento Geral:
 User Experencie 
  - bom fluxo entre as páginas
  - navegação intuitiva/guiada
- -botões para bom acesso: “ comece aqui” ou “seja membro”
+ - botões para bom acesso: “ comece aqui” ou “seja membro”
+ - colocar as redes sociais do ACBrasil no rodapé de todas as paginas
+ - a logo do rodaé ta muito grande e tem muito espaço entre o inicio do rodape e ela,consertar isso 
 
  TEM QUE TER RESPONSIVIDADE COM MOBILE
+
+-versão mobile ta sem as logos e as tres barras e a lupa não tão alinhadas,consertar isso
 
 ------------------------------------------------------------------------------------------------------------------------------
 PÁGINA Home
@@ -53,7 +57,7 @@ Página “Quem Somos” deveria ser:
 
 ------------------------------------------------------------------------------------------------------------------------------
 
- pÁGINA CONTATO
+ PÁGINA CONTATO
  -enviar mensagem para falar sobre algo dentro do site 
  -tambem está presente na pagina de 'o que fazemos'
   
@@ -62,8 +66,11 @@ Página “Quem Somos” deveria ser:
   -não precisa da frase '[acb-contatos] porque já ta explicito que é a pagina de contato
   -o botão de enviar mensagem poderia ser da mesma cor do resto da pagina (azul)
   -tem que colocar outras redes sociais porque só tem o youtube e o linkedin(seria interessante colocar outros links como o instagram e o gmail)
-  -tirar da pagina de 'o que fazemos' porque não precisa estar em 2 paginas
-  - colocar botão do whatssap seria mais interessante do que deixar um botão solto na tela 
-  -ajeitar o css porque porque as 3 barrinhas e o icone de busca tão esquisitos 
+  -tirar da pagina de 'o que fazemos' porque não precisa estar em 2 paginas 
 
 ------------------------------------------------------------------------------------------------------------------------------
+PÁGINA DE SE ASSOCIAR
+- virar um membro do ACBrasil
+o que melhorar?
+- tirar esse espaço branco 
+- colocar o formulario no meio da pagina e de um lado os beneficios de se associar e do outro as categorias de associado
