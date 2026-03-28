@@ -61,6 +61,9 @@ Página “Quem Somos” deveria ser:
   -o mobile ta sem a logo(acrescentar ela é importante)
   -não precisa da frase '[acb-contatos] porque já ta explicito que é a pagina de contato
   -o botão de enviar mensagem poderia ser da mesma cor do resto da pagina (azul)
-  -tem que colocar outras redes sociais pq só tem o youtube e o linkedin(seria interessante colocar outros links como o instagram e o gmail)
+  -tem que colocar outras redes sociais porque só tem o youtube e o linkedin(seria interessante colocar outros links como o instagram e o gmail)
+  -tirar da pagina de 'o que fazemos' porque não precisa estar em 2 paginas
+  - colocar botão do whatssap seria mais interessante do que deixar um botão solto na tela 
+  -ajeitar o css porque porque as 3 barrinhas e o icone de busca tão esquisitos 
 
 ------------------------------------------------------------------------------------------------------------------------------
