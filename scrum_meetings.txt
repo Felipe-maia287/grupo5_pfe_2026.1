@@ -1,0 +1,13 @@
+Scrum meeting semanal
+Período: A cada 7 dias
+Objetivo: Organizar o código
+
+SEMANA 1
+
+O que foi concluído: Progredimos na criação da documentação do site acbrasil.org.br, e também colocamos o README.md, incluindo o nome dos participantes.
+O que não foi concluído: Mapa mental incluído no repositório, 5w2h e o Figma
+
+SEMANA 2
+
+O que foi concluído: Finalizamos a documentação do site acbrasil.org.br, organizamos os nomes no README.md, mapa mental concluído e postado no repositório e avançamos na parte da entrevista.txt
+O que não foi concluído: Ainda não concluímos o Figma, nem o 5w2h.
