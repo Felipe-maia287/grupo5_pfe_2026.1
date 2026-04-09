@@ -26,7 +26,7 @@ Organizamos os nomes no README.md
 Mapa mental concluído e postado no repositório - Feito por @GabrielMilitao19
 Avançamos na parte da entrevista.txt - Feito por @Miguelesteves96 e @miguelfigueir4-bit
 Correção de erros e ortografia - Feito por @miguelfigueir4-bit
-a
+
 
 **O que não foi concluído:**  
 Ainda não concluímos o Figma, nem o 5w2h
