@@ -6,4 +6,4 @@ integrantes
 - Miguel Esteves
 - Pedro Boeing
 - Miguel Figueira
-- The Loiro 
+- Victor Loureiro
