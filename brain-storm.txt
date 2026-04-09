@@ -1,5 +1,5 @@
-Posicionamento Geral:
- - O site não deixa claro os objetivos da ABCBrasil, nem seu diferencial
+~´Posicionamento Geral:
+ - O site não deixa claro os objetivos da ACBrasil, nem seu diferencial
       - Definir claramente o público-alvo
       - Definir o que o cliente ganha ao entrar na empresa
       - Melhorar o headline com um forte slogan como: “Maior rede de conselhos . . .”
@@ -19,7 +19,20 @@ Posicionamento Geral:
 User Experencie 
  - bom fluxo entre as páginas
  - navegação intuitiva/guiada
- -botões para bom acesso: “ comece aqui” ou “seja membro”
+ - botões para bom acesso: “ comece aqui” ou “seja membro”
+ - colocar as redes sociais do ACBrasil no rodapé de todas as paginas
+ - a logo do rodaé ta muito grande e tem muito espaço entre o inicio do rodape e ela,consertar isso 
+
+ TEM QUE TER RESPONSIVIDADE COM MOBILE
+
+-versão mobile ta sem as logos e as tres barras e a lupa não tão alinhadas,consertar isso
+
+------------------------------------------------------------------------------------------------------------------------------
+PÁGINA Home
+
+- Home deve/poderia ser organizada em blocos
+- possuir um carrossel dos itens publicados no rss/blog 
+
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -34,17 +47,17 @@ Página “Quem Somos” deveria ser:
 -Prova social 
 -CTA
 
-TEM QUE TER RESPONSIVIDADE COM MOBILE
 
-- Cores: Azul marinho e Dourado e Branco
-- Home: "Quem somos", "Nossos pilares de governança" e "Como impactamos o mercado"
+- Cores: cinza amarelo azul escuro preto
+
 - Um menu com o essencial: Sobre, Associar-se, Eventos, Governança e Login
 - Sem texto grande
-- Home deve ser organizada em blocos
 - So tem linkdlin e youtube, criar um local para instagram e email tambem
 - site tem muita coisa escrita, diminuir o maximo 
+
 ------------------------------------------------------------------------------------------------------------------------------
- pagina contato
+
+ PÁGINA CONTATO
  -enviar mensagem para falar sobre algo dentro do site 
  -tambem está presente na pagina de 'o que fazemos'
   
@@ -52,4 +65,12 @@ TEM QUE TER RESPONSIVIDADE COM MOBILE
   -o mobile ta sem a logo(acrescentar ela é importante)
   -não precisa da frase '[acb-contatos] porque já ta explicito que é a pagina de contato
   -o botão de enviar mensagem poderia ser da mesma cor do resto da pagina (azul)
-  -tem que colocar outras redes sociais pq só tem o youtube e o linkedin(seria interessante colocar outros links como o instagram e o gmail)
+  -tem que colocar outras redes sociais porque só tem o youtube e o linkedin(seria interessante colocar outros links como o instagram e o gmail)
+  -tirar da pagina de 'o que fazemos' porque não precisa estar em 2 paginas 
+
+------------------------------------------------------------------------------------------------------------------------------
+PÁGINA DE SE ASSOCIAR
+- virar um membro do ACBrasil
+o que melhorar?
+- tirar esse espaço branco 
+- colocar o formulario no meio da pagina e de um lado os beneficios de se associar e do outro as categorias de associado
