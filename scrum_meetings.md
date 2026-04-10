@@ -38,4 +38,4 @@ Boa parte do scrum_meetings.md foi concluída - Feito por @victorww7
 Documento 5w2h.txt foi criado - Feito por @Felipe-maia287
 Criamos o arquivo documento-de-visao.txt - Feito por @Felipe-maia287 e @Miguelesteves96
 documento-de-visao.txt alterado para MD (Markdown) - Feito por @Felipe-maia287
-Página HOME do Figma criado - Feito por @Felipe-maia287
+Página [HOME](https://files.catbox.moe/z785zv.png) do Figma criado - Feito por @Felipe-maia287
