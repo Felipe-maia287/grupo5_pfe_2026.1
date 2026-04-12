@@ -1,7 +1,7 @@
 # Scrum meeting semanal
 
 **Período:** A cada 7 dias  
-**Objetivo:** Organizar o código  
+**Objetivo:** Organizar o código    
 
 ---
 
@@ -42,3 +42,5 @@ Criamos o arquivo documento-de-visao.txt - Feito por @Felipe-maia287 e @Migueles
 documento-de-visao.txt alterado para MD (Markdown) - Feito por @Felipe-maia287 <br>
 Página [HOME](https://files.catbox.moe/z785zv.png) do Figma criado - Feito por @Felipe-maia287 <br>
 Página [SEJA_MEMBRO](https://files.catbox.moe/xihw3y.jpeg) em desenvolvimento - Feito por @miguelfigueir4-bit <br>
+Melhor formatação da tabela do 5w2h - Feito por @Felipe-maia287 <br>
+Ajuste no README.md - Feito por @victorww7 <br>
