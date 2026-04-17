@@ -1,4 +1,4 @@
-# 📄 Documento de Visão
+#  Documento de Visão
 
 ## 1. Identificação do Projeto
 
