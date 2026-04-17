@@ -52,5 +52,5 @@ Ajuste no README.md - Feito por [@victorww7](https://github.com/victorww7) <br>
 **O que foi concluído:** 
 Finalizamos o Figma - Feito por todos <br>
 Aprimoramento do arquivo READ.ME - Feito do [@Felipe-maia287](https://github.com/Felipe-maia287) <br>
-
+Terminamos o 5w2h - Feito por [@Felipe-maia287](https://:github.com/Felipe-maia287) <br>
 
