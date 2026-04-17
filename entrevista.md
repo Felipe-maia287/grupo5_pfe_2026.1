@@ -24,7 +24,7 @@
 
 ---
 
-## 📰 Conteúdo e Comunicação
+##  Conteúdo e Comunicação
 
 - Site deve possuir um newsletter  
 - Uma ferramenta parecida com um blog  
