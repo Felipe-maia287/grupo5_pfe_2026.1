@@ -1,20 +1,20 @@
-# 🚩 Análise e Reestruturação de UX/UI: Site ACBrasil (Projeto Front-end)
+#  Análise e Reestruturação de UX/UI: Site ACBrasil (Projeto Front-end)
 
 
-## 1. 🎨 Experiência do Usuário (UX) e Interface Visual (UI)
+## 1.  Experiência do Usuário (UX) e Interface Visual (UI)
 
 * **Erro Crítico no Menu Principal:** O topo do site atual exibe o erro *"Click here - to use the wp menu builder"*. No novo projeto front-end, isso será resolvido com um menu de navegação semântico e responsivo.
 * **Falta de uma "Hero Section" Clara:** A primeira dobra do site não apresenta a proposta de valor. O visitante não descobre em 3 segundos o que é a ACBrasil. O layout atual lembra um feed cru de blog, e não o portal de uma associação de alto nível.
 * **Barreira de Entrada (Foco no Login):** O usuário é recebido com formulários enormes de "Entrar/Bem-vindo". Isso passa a falsa impressão de que o site é um sistema fechado.
 * **Poluição Visual:** O banner de política de cookies domina a interface de forma desproporcional, competindo com o conteúdo principal.
 
-## 2. 🧭 Navegação e Usabilidade
+## 2.  Navegação e Usabilidade
 
 * **Fluxo de Login e Área Logada:** O botão "Entrar" atual está misturado com a busca. Para um público executivo, a área do associado deve transmitir exclusividade e merecer um botão de destaque isolado (Call to Action).
 * **Paginação vs. Descoberta de Conteúdo:** A navegação por páginas (1, 2, 3... 6) no final da lista de artigos é ineficiente. Faltam filtros visuais e categorias.
 * **Responsividade Comprometida:** A navegação via dispositivos móveis (smartphones) no site original está severamente prejudicada. O novo projeto deverá garantir uma experiência *mobile-first*.
 
-## 3. 🏗️ Estrutura de Informação e Conteúdo (Arquitetura)
+## 3.  Estrutura de Informação e Conteúdo (Arquitetura)
 
 Mapeamento de onde as informações estão mal posicionadas e como devem ser reorganizadas na nova interface:
 
@@ -28,7 +28,7 @@ Mapeamento de onde as informações estão mal posicionadas e como devem ser reo
 
 ---
 
-## 4. 📋 Análise de Requisitos (Entrevista)
+## 4.  Análise de Requisitos (Entrevista)
 
 Requisitos técnicos e de negócio mapeados para o projeto da disciplina:
 
@@ -41,7 +41,7 @@ Requisitos técnicos e de negócio mapeados para o projeto da disciplina:
 
 ---
 
-## 5. 🚀 Proposta da Nova Versão (O Novo Site)
+## 5.  Proposta da Nova Versão (O Novo Site)
 
 ### O Novo Cabeçalho (Header) e Identidade
 * **Visual:** Fundo branco ou cinza claro, utilizando o logo original e a tipografia do manual da marca.
@@ -56,7 +56,7 @@ Requisitos técnicos e de negócio mapeados para o projeto da disciplina:
 5. **Radar de Eventos:** Bloco destacando as próximas publicações de eventos, com data e botão de inscrição.
 6. **Rodapé (Footer):** Ícones das redes sociais em destaque, links úteis e o selo de transparência.
 
-### 💻 Desafios de Implementação
+###  Desafios de Implementação
 
 * **Simulação do Formulário de Contato:** Criar uma validação robusta no front-end (verificando e-mail, campos vazios, etc.). Ao clicar em enviar, simular um *loading* (spinner) de 2 segundos e exibir um modal de sucesso ("Mensagem enviada!").
 * **Consumo de Dados (APIs e Blog):** Usar a Fetch API ou Axios para tentar consumir a API da Bolsa e o RSS. Para contornar problemas de CORS (comuns em projetos de aula), ter um plano B: criar arquivos `dadosMockados.json` locais para simular o retorno das APIs e popular o carrossel do blog e os eventos.
