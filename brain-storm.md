@@ -8,7 +8,7 @@
 
 ---
 
-## 💼 Perfis de Conselho
+##  Perfis de Conselho
 
 - Pode se criar diferentes perfis de conselho com diferentes preços, ex:
   - Conselheiro iniciante  
@@ -17,7 +17,7 @@
 
 ---
 
-## 🎨 Visual
+##  Visual
 
 - Melhorar no visual:
   - Tipografia mais moderna  
@@ -28,7 +28,7 @@
 
 ---
 
-## 🧭 User Experience
+##  User Experience
 
 - Bom fluxo entre as páginas  
 - Navegação intuitiva/guiada  
@@ -42,7 +42,7 @@
 
 ---
 
-## 📱 Responsividade
+##  Responsividade
 
 - TEM QUE TER RESPONSIVIDADE COM MOBILE  
 
@@ -54,14 +54,14 @@
 
 ---
 
-# 🏠 PÁGINA HOME
+#  PÁGINA HOME
 
 - Home deve/poderia ser organizada em blocos  
 - Possuir um carrossel dos itens publicados no RSS/blog  
 
 ---
 
-# 👥 PÁGINA QUEM SOMOS (ideia base)
+# PÁGINA QUEM SOMOS (ideia base)
 
 Página “Quem Somos” deveria ser:
 
@@ -75,7 +75,7 @@ Página “Quem Somos” deveria ser:
 
 ---
 
-## 🎨 Diretrizes
+##  Diretrizes
 
 - Cores:
   - Cinza  
@@ -100,12 +100,12 @@ Página “Quem Somos” deveria ser:
 
 ---
 
-# 📞 PÁGINA CONTATO
+#  PÁGINA CONTATO
 
 - Enviar mensagem para falar sobre algo dentro do site  
 - Também está presente na página de "o que fazemos"  
 
-## ❗ O que precisa melhorar?
+##  O que precisa melhorar?
 
 - Mobile tá sem a logo → acrescentar (importante)  
 - Não precisa da frase `[acb-contatos]` (já está explícito)  
@@ -118,7 +118,7 @@ Página “Quem Somos” deveria ser:
 
 ---
 
-# 📝 PÁGINA DE SE ASSOCIAR
+#  PÁGINA DE SE ASSOCIAR
 
 - Virar um membro do ACBrasil  
 
