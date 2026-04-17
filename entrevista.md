@@ -6,7 +6,7 @@
 
 ---
 
-## 🧩 Identidade e Marca
+##  Identidade e Marca
 
 - Permanecer a logo atual  
 - Mudar a descrição dela para a mesma fonte da própria logo  
@@ -14,7 +14,7 @@
 
 ---
 
-## 🎨 Diretrizes Visuais
+##  Diretrizes Visuais
 
 - Paleta de cores que deve ser utilizada na construção do site:
   - Cinza  
@@ -34,7 +34,7 @@
 
 ---
 
-## 🤝 Funcionalidades para Usuários
+##  Funcionalidades para Usuários
 
 - Espaço para o contato  
 - Os associados/membros devem poder visualizar suas consultorias antes e depois (pensar em como vai ser)  
@@ -42,7 +42,7 @@
 
 ---
 
-## 📊 Funcionalidades Extras
+##  Funcionalidades Extras
 
 - Site deve possuir uma API da bolsa de valores  
 - Site deve apresentar os eventos / futuros eventos  
@@ -50,6 +50,6 @@
 
 ---
 
-## ⚠️ Problemas Identificados
+##  Problemas Identificados
 
 - Formulário não manda pro back-end  
