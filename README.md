@@ -1,10 +1,10 @@
-# 🚀 ACBrasil - Plataforma Institucional
+#  ACBrasil - Plataforma Institucional
 
 Este repositório contém o código-fonte do novo portal institucional da **ACBrasil**, desenvolvido para oferecer uma experiência digital de alta performance, acessibilidade e design sofisticado.
 
 ---
 
-## 👥 Equipe de Desenvolvimento (Grupo 5)
+##  Equipe de Desenvolvimento (Grupo 5)
 
 | Nome              | GitHub |
 |-------------------|--------|
