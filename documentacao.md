@@ -1,8 +1,8 @@
-# 🧱 Pilar de (Erros, Bugs, Problemas)
+#  Pilar de (Erros, Bugs, Problemas)
 
 ---
 
-## ⚠️ Problemas Identificados
+##  Problemas Identificados
 
 - **Mensagem de erro no topo:**  
   Logo de cara, em cima do menu, aparece um texto em inglês:  
@@ -52,4 +52,4 @@
 
 ---
 
-# 🚀 Pilar de (Melhorias, Atualizações, Correções)
+#  Pilar de (Melhorias, Atualizações, Correções)
